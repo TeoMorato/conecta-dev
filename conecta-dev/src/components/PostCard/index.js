@@ -79,7 +79,7 @@ const PostCard = ({ post }) => {
                     </Typography>
                 </IconButton>
                 <IconButton arial-label="comment">
-                    <FavoriteIcon />
+                    <MessageIcon />
                     <Typography
                      className={classes.reactions}
                      color="textSecondary"
